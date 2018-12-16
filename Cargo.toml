@@ -1,0 +1,16 @@
+[package]
+name = "parallel-conway"
+version = "0.1.0"
+authors = ["Sean <seanchen11235@gmail.com>"]
+edition = "2018"
+publish = false
+license = "MIT"
+repository = "https://github.com/seanchen1991/parallel-conway.git"
+homepage = "https://github.com/seanchen1991/parallel-conway"
+
+[dependencies]
+rand = "0.6"
+rayon = "1"
+serde = "1"
+serde_derive = "1"
+time = "0.1.41"
