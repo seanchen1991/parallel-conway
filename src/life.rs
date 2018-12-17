@@ -1,3 +1,5 @@
+//! Structs and type definitions for the Board that holds all cells
+
 use std::fmt;
 use std::iter;
 use std::sync::Arc;
